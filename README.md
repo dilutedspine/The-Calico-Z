@@ -15,3 +15,9 @@ As it sits the car has the engine removed and I'm prepping to have the engine wo
 # Future plans for the repo
 
 I'm going to investigate a github pages site to use as a blog for tracking the progress of the car.
+
+# The Car
+
+![6443450e-f8fb-420c-ac11-895c7745a0e0](https://github.com/user-attachments/assets/4db8f598-c010-4ded-9782-4314236328ec)
+
+![2014-10-27](https://github.com/user-attachments/assets/96f48731-81f2-447c-874b-531860dad9d2)
