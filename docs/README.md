@@ -12,10 +12,6 @@ In the summer of 2015 I purchased a 280z 2+2 and drove it 5 hours home.  I've pi
 
 As it sits the car has the engine removed and I'm prepping to have the engine worked over by a local Z enthusiast.  The engine smokes badly and has a number of broken manifold fastners that will be addressed during this work.
 
-# Future plans for the repo
-
-I'm going to investigate a github pages site to use as a blog for tracking the progress of the car.
-
 # The Car
 
 ![2014-10-27](https://github.com/user-attachments/assets/96f48731-81f2-447c-874b-531860dad9d2)
