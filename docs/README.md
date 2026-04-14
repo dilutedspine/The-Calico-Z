@@ -14,7 +14,7 @@ As it sits the car has the engine removed and I'm prepping to have the engine wo
 
 # Blog Posts
 
-
+[April 13, 2026; Texas Z Fest and Engine Teardown](https://dilutedspine.github.io/The-Calico-Z/blog/april-13-2026)
 
 # The Car
 
